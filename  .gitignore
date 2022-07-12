@@ -1,4 +1,8 @@
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .ipython
+*/.ipython/*
 .jupyter
+*/.jupyter/*
 .local
+*/.local/*
